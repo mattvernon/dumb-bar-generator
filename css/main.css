@@ -1,3 +1,8 @@
+/*body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}*/
+
 h2 {
   font-family: 'Anton', sans-serif;
   text-transform: uppercase;
@@ -11,6 +16,24 @@ p {
   font-family: 'Inconsolata', sans-serif;
   color: #FF0000;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  font-family: 'Inconsolata', sans-serif;
+  text-decoration: underline;
+  color: #FF0000;
+}
+
+a:hover {
+  background-color: #FF0000;
+  color: white;
+  padding: 10px;
+}
+
 
 .intro {
   margin-top: 60px;
@@ -32,22 +55,13 @@ p {
 
 .button:hover {
   background-color: #DF0000;
+  padding: 15px 25px;
 }
 
 .credit {
   margin-top: 120px;
 }
 
-a {
-  font-family: 'Inconsolata', sans-serif;
-  text-decoration: underline;
-  color: #FF0000;
-}
-
-a:hover {
-  background-color: #FF0000;
-  color: white;
-}
 
 .home {
   margin-bottom: 20px;
@@ -58,12 +72,33 @@ a:hover {
 
 .container {
   display: table;
-  width: 100%;
+  width: 800px;
   height: 100vh;
   text-align: center;
+  margin: 0 auto;
 }
 
 .inner {
   display: table-cell;
   vertical-align: middle;
+}
+
+
+/* ====== MEDIA QUERIES ========= */
+
+@media (max-width: 1000px) {
+  .container {
+    width: 300px;
+  }
+
+  h2 {
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 40px;
+  }
+
+  .button {
+    font-size: 20px;
+    margin-top: 20px;
+  }
 }
