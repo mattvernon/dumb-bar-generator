@@ -2,7 +2,7 @@ h2 {
   font-family: 'Anton', sans-serif;
   text-transform: uppercase;
   color: #FF0000;
-  font-size: 56px;
+  font-size: 64px;
   line-height: 60px;
   letter-spacing: 2px;
 }
@@ -14,13 +14,24 @@ p {
 
 .intro {
   margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 
-button {
+a {
   background-color: #FF0000;
-  padding: 20px 40px;
+  padding: 15px 25px;
   margin-top: 40px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: .5px;
+}
+
+a:hover {
+  background-color: #DF0000;
 }
 
 
