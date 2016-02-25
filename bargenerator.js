@@ -59,6 +59,7 @@ var music = ["80's Punk Records",
             "Shitty 00's Ska like Less than Jake",
             "music from all the artists that appeared on that Simpsons episode with the Smashing Pumpkins",
             "G-Rated supermarket covers of the Red Hot Chilli Peppers",
+            "the Australian classics like Midnight Oil and Cold Chisel"
             ]
 
 var randomTheme = Math.floor(Math.random()*theme.length);
