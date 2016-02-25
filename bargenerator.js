@@ -53,11 +53,13 @@ var music = ["80's Punk Records",
             "Experimental Jazz",
             "Speed Metal",
             "Dubstep remixes of the latest memes",
-            ""
             ]
 
 var randomTheme = Math.floor(Math.random()*theme.length);
 var randomFood = Math.floor(Math.random()*food.length);
 var randomMusic = Math.floor(Math.random()*music.length);
 
+
+function writeAnswer() {
 document.write("<h2>You should start a " + theme[randomTheme] + " themed bar that sells " + food[randomFood] + " and plays " + music[randomMusic] + ".</h2>");
+}
