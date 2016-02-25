@@ -22,6 +22,27 @@ var theme = ["Breaking Bad",
             "Pulp Fiction",
             "Friends",
             "Russell Coight",
+            "Cheez TV",
+            "DJ Kahled",
+            "Windows 95",
+            "Street Fighter",
+            "Street Sharks",
+            "Ninja Turtles",
+            "Lenny and Carl",
+            "Keenan and Kel",
+            "Malcom in the Middle",
+            "Angry Beavers",
+            "Hey Arnold",
+            "Doug",
+            "Ren and Stimpy",
+            "Rugrats",
+            "Beavis and Butthead",
+            "Rocko's Modern Life",
+            "Daria",
+            "South Park",
+            "Captain Planet",
+            "Futurama",
+
 
           ]
 
@@ -37,6 +58,17 @@ var food = ["Chicken Nuggets",
             "Bunning's Warehouse style Sausage Sandwiches",
             "Buckets of Pork Crackling covered in Caramel Sauce",
             "Deconstructed Lamingtons",
+            "Servo Meat Pies",
+            "Breakfast burritos",
+            "Gyozas",
+            "Artisinal Hot Dogs",
+            "Gigantic Chicken Schnitzels",
+            "Fajita share plates",
+            "Bundaberg Rum Chocolate Milkshakes",
+            "Spicy 'as fuck' Chicken wings",
+            "Deep fried pickles",
+            
+
           ]
 
 var music = ["80's Punk Records",
@@ -59,7 +91,8 @@ var music = ["80's Punk Records",
             "Shitty 00's Ska like Less than Jake",
             "music from all the artists that appeared on that Simpsons episode with the Smashing Pumpkins",
             "G-Rated supermarket covers of the Red Hot Chilli Peppers",
-            "the Australian classics like Midnight Oil and Cold Chisel"
+            "the Australian classics like Midnight Oil and Cold Chisel",
+            "Every Wheatus song except Teenage Dirtbag",
             ]
 
 var randomTheme = Math.floor(Math.random()*theme.length);
