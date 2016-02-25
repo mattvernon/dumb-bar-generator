@@ -4,7 +4,6 @@ var theme = ["Breaking Bad",
             "Seinfeld",
             "Frasier",
             "How I Met Your Mother",
-            "Arrested Development",
             "Power Rangers",
             "Star Wars",
             "George Costanza",
@@ -67,7 +66,7 @@ var food = ["Chicken Nuggets",
             "Bundaberg Rum Chocolate Milkshakes",
             "Spicy 'as fuck' Chicken wings",
             "Deep fried pickles",
-            
+
 
           ]
 
