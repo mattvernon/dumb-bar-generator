@@ -1,0 +1,69 @@
+h2 {
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  color: #FF0000;
+  font-size: 64px;
+  line-height: 60px;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: 'Inconsolata', sans-serif;
+  color: #FF0000;
+}
+
+.intro {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+
+.button {
+  background-color: #FF0000;
+  padding: 15px 25px;
+  margin-top: 40px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: .5px;
+}
+
+.button:hover {
+  background-color: #DF0000;
+}
+
+.credit {
+  margin-top: 120px;
+}
+
+a {
+  font-family: 'Inconsolata', sans-serif;
+  text-decoration: underline;
+  color: #FF0000;
+}
+
+a:hover {
+  background-color: #FF0000;
+  color: white;
+}
+
+.home {
+  margin-bottom: 20px;
+}
+
+
+/* ====== LAYOUT STYLES ========= */
+
+.container {
+  display: table;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.inner {
+  display: table-cell;
+  vertical-align: middle;
+}
