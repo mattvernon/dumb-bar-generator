@@ -56,6 +56,9 @@ var music = ["80's Punk Records",
             "That vapourwave album about Macintosh's",
             "Thrash Metal / Rap Crossover records",
             "Like a Bird by Nelly Furtado 24/7",
+            "Shitty 00's Ska like Less than Jake",
+            "music from all the artists that appeared on that Simpsons episode with the Smashing Pumpkins",
+            "G-Rated supermarket covers of the Red Hot Chilli Peppers",
             ]
 
 var randomTheme = Math.floor(Math.random()*theme.length);
