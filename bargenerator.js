@@ -89,9 +89,9 @@ var music = ["80's Punk Records",
             "Like a Bird by Nelly Furtado 24/7",
             "Shitty 00's Ska like Less than Jake",
             "music from all the artists that appeared on that Simpsons episode with the Smashing Pumpkins",
-            "G-Rated supermarket covers of the Red Hot Chilli Peppers",
+            "Easy Listening supermarket covers of the Red Hot Chilli Peppers",
             "the Australian classics like Midnight Oil and Cold Chisel",
-            "Every Wheatus song except Teenage Dirtbag",
+            "Every Wheatus song, except Teenage Dirtbag",
             ]
 
 var randomTheme = Math.floor(Math.random()*theme.length);
