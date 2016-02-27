@@ -74,8 +74,8 @@ var food = ["Chicken Nuggets",
             "Melbourne Bitter longnecks",
             "Mi Goreng",
             "Masterfoods Tomato Sauce Sandwiches",
-            "Halal Snack Packs with Chilli and Garlic Sauce in a fuckin styro."
-            "Cups of room temperature goon for $2"
+            "Halal Snack Packs with Chilli and Garlic Sauce in a fuckin styro.",
+            "Cups of room temperature goon for $2",
 
             ]
 
