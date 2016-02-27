@@ -71,7 +71,10 @@ var food = ["Chicken Nuggets",
             "Deep fried pickles",
             "only Victoria Bitter tinnies",
             "Melbourne Bitter longnecks",
-          ]
+            "Mi Goreng",
+            "Masterfoods Tomato Sauce Sandwiches",
+
+            ]
 
 var music = ["80's Punk Records",
             "nothing but WWE Superstar intro music",
