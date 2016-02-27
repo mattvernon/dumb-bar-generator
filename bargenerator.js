@@ -44,6 +44,7 @@ var theme = ["Breaking Bad",
             "Karl Stefanovic",
             "Con the Fruiterer",
             "Michael Beveridge",
+            "Goon of fortune",
 
 
           ]
@@ -74,6 +75,7 @@ var food = ["Chicken Nuggets",
             "Mi Goreng",
             "Masterfoods Tomato Sauce Sandwiches",
             "Halal Snack Packs with Chilli and Garlic Sauce in a fuckin styro."
+            "Cups of room temperature goon for $2"
 
             ]
 
