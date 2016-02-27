@@ -41,6 +41,8 @@ var theme = ["Breaking Bad",
             "South Park",
             "Captain Planet",
             "Futurama",
+            "Karl Stefanovic",
+            "Con the Fruiterer",
 
 
           ]
@@ -66,8 +68,8 @@ var food = ["Chicken Nuggets",
             "Bundaberg Rum Chocolate Milkshakes",
             "Spicy 'as fuck' Chicken wings",
             "Deep fried pickles",
-
-
+            "only Victoria Bitter tinnies",
+            "Melbourne Bitter longnecks",
           ]
 
 var music = ["80's Punk Records",
