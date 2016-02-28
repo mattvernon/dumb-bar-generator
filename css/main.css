@@ -40,6 +40,11 @@ a:hover {
   margin-bottom: 60px;
 }
 
+.advertise {
+  font-size: 24px;
+  margin-bottom: 60px;
+}
+
 
 .button {
   background-color: #FF0000;
@@ -117,4 +122,5 @@ a:hover {
   .credit {
     margin-top: 60px;
   }
+
 }

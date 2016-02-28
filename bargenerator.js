@@ -76,6 +76,9 @@ var food = ["Chicken Nuggets",
             "Masterfoods Tomato Sauce Sandwiches",
             "Halal Snack Packs with Chilli and Garlic Sauce in a fuckin styro.",
             "Cups of room temperature goon for $2",
+            "Chip buddies",
+            "Granville baklava",
+            "250ml Tooheys twist top throwbacks",
 
             ]
 
